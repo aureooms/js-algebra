@@ -1,0 +1,17 @@
+{
+	"name": "algebra",
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"algebra.js"
+		]
+	},
+	"src": "js/src/",
+	"out": "js/dist/",
+	"debug": false
+}
