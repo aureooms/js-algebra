@@ -2,7 +2,7 @@
 	"description": "algebra code bricks for JavaScript",
 	"repo": "aureooms/js-algebra",
 	"name": "aureooms-js-algebra",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"scripts": [
 		"js/dist/algebra.js"
 	],
