@@ -13,3 +13,4 @@ algebra code bricks for JavaScript
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-algebra.svg?style=flat)](https://codeclimate.com/github/aureooms/js-algebra)
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-algebra.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-algebra)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-algebra.svg?style=flat)](https://github.com/aureooms/js-algebra/issues)
+[![Inline docs](http://inch-ci.org/github/aureooms/js-algebra.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-algebra)
