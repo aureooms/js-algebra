@@ -10,7 +10,7 @@
 		"aureooms-node-package": "^2.0.2"
 	},
 	"main": "js/dist/algebra.js",
-	"name": "aureooms-js-algebra",
+	"name": "@aureooms/js-algebra",
 	"keywords": [
 		"ast",
 		"bricks",
