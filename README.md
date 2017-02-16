@@ -3,7 +3,7 @@
 
 algebra code bricks for JavaScript
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-algebra.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-algebra/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-algebra.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-algebra/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-algebra.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-algebra)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-algebra.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-algebra)
 [![Build Status](https://img.shields.io/travis/aureooms/js-algebra.svg?style=flat)](https://travis-ci.org/aureooms/js-algebra)
