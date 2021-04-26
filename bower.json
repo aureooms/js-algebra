@@ -15,7 +15,7 @@
     ".codeclimate.yml"
   ],
   "version": "0.0.4",
-  "homepage": "http://aureooms.github.io/js-algebra/",
+  "homepage": "http://make-github-pseudonymous-again.github.io/js-algebra/",
   "description": "algebra code bricks for JavaScript",
   "main": "js/dist/algebra.js"
 }

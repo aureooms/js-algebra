@@ -1,4 +1,4 @@
-[js-algebra](http://aureooms.github.io/js-algebra)
+[js-algebra](http://make-github-pseudonymous-again.github.io/js-algebra)
 ==
 
 algebra code bricks for JavaScript
